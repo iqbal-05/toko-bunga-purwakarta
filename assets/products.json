@@ -1,0 +1,385 @@
+[
+ 
+  {
+    "id": "BB-001",
+    "name": "Buket Mawar Merah",
+    "price": 350000,
+    "currency": "IDR",
+    "image": "assets/buket1.jpg",
+    "url": "#",
+    "category": "buket-bunga"
+  },
+  {
+    "id": "BB-002",
+    "name": "Buket Lily Putih",
+    "price": 420000,
+    "currency": "IDR",
+    "image": "assets/buket2.jpg",
+    "url": "#",
+    "category": "buket-bunga"
+  },
+  {
+    "id": "BB-003",
+    "name": "Buket Tulip Premium",
+    "price": 500000,
+    "currency": "IDR",
+    "image": "assets/buket3.jpg",
+    "url": "#",
+    "category": "buket-bunga"
+  },
+  {
+    "id": "BB-004",
+    "name": "Buket Mix Elegan",
+    "price": 480000,
+    "currency": "IDR",
+    "image": "assets/buket4.jpg",
+    "url": "#",
+    "category": "buket-bunga"
+  },
+  {
+    "id": "BB-005",
+    "name": "Hand Bouquet Rose Pink",
+    "price": 360000,
+    "currency": "IDR",
+    "image": "assets/buket5.jpg",
+    "url": "#",
+    "category": "buket-bunga"
+  },
+  {
+    "id": "BB-006",
+    "name": "Buket Sunflower",
+    "price": 380000,
+    "currency": "IDR",
+    "image": "assets/buket6.jpg",
+    "url": "#",
+    "category": "buket-bunga"
+  },
+  {
+    "id": "BB-007",
+    "name": "Buket Daisy Fresh",
+    "price": 300000,
+    "currency": "IDR",
+    "image": "assets/buket7.jpg",
+    "url": "#",
+    "category": "buket-bunga"
+  },
+  {
+    "id": "BB-008",
+    "name": "Buket Lavender",
+    "price": 400000,
+    "currency": "IDR",
+    "image": "assets/buket8.jpg",
+    "url": "#",
+    "category": "buket-bunga"
+  },
+  {
+    "id": "BB-009",
+    "name": "Buket Anggrek Ungu",
+    "price": 600000,
+    "currency": "IDR",
+    "image": "assets/buket9.jpg",
+    "url": "#",
+    "category": "buket-bunga"
+  },
+  {
+    "id": "BB-010",
+    "name": "Buket Mix Pastel",
+    "price": 450000,
+    "currency": "IDR",
+    "image": "assets/buket10.jpg",
+    "url": "#",
+    "category": "buket-bunga"
+  },
+
+
+  {
+    "id": "BM-001",
+    "name": "Meja Bunga Mawar",
+    "price": 250000,
+    "currency": "IDR",
+    "image": "assets/meja1.jpg",
+    "url": "#",
+    "category": "buket-meja"
+  },
+  {
+    "id": "BM-002",
+    "name": "Meja Bunga Lily",
+    "price": 270000,
+    "currency": "IDR",
+    "image": "assets/meja2.jpg",
+    "url": "#",
+    "category": "buket-meja"
+  },
+  {
+    "id": "BM-003",
+    "name": "Meja Tulip Fresh",
+    "price": 300000,
+    "currency": "IDR",
+    "image": "assets/meja3.jpg",
+    "url": "#",
+    "category": "buket-meja"
+  },
+  {
+    "id": "BM-004",
+    "name": "Meja Mix Elegan",
+    "price": 320000,
+    "currency": "IDR",
+    "image": "assets/meja4.jpg",
+    "url": "#",
+    "category": "buket-meja"
+  },
+  {
+    "id": "BM-005",
+    "name": "Meja Bunga Daisy",
+    "price": 260000,
+    "currency": "IDR",
+    "image": "assets/meja5.jpg",
+    "url": "#",
+    "category": "buket-meja"
+  },
+  {
+    "id": "BM-006",
+    "name": "Meja Anggrek Elegan",
+    "price": 350000,
+    "currency": "IDR",
+    "image": "assets/meja6.jpg",
+    "url": "#",
+    "category": "buket-meja"
+  },
+  {
+    "id": "BM-007",
+    "name": "Meja Sunflower Fresh",
+    "price": 280000,
+    "currency": "IDR",
+    "image": "assets/meja7.jpg",
+    "url": "#",
+    "category": "buket-meja"
+  },
+  {
+    "id": "BM-008",
+    "name": "Meja Bunga Mix Pastel",
+    "price": 310000,
+    "currency": "IDR",
+    "image": "assets/meja8.jpg",
+    "url": "#",
+    "category": "buket-meja"
+  },
+  {
+    "id": "BM-009",
+    "name": "Meja Lavender",
+    "price": 330000,
+    "currency": "IDR",
+    "image": "assets/meja9.jpg",
+    "url": "#",
+    "category": "buket-meja"
+  },
+  {
+    "id": "BM-010",
+    "name": "Meja Elegant Premium",
+    "price": 400000,
+    "currency": "IDR",
+    "image": "assets/meja10.jpg",
+    "url": "#",
+    "category": "buket-meja"
+  },
+
+  
+  {
+    "id": "SF-001",
+    "name": "Standing Mawar Merah",
+    "price": 1500000,
+    "currency": "IDR",
+    "image": "assets/standing1.jpg",
+    "url": "#",
+    "category": "standing-flower"
+  },
+  {
+    "id": "SF-002",
+    "name": "Standing Lily Elegan",
+    "price": 1600000,
+    "currency": "IDR",
+    "image": "assets/standing2.jpg",
+    "url": "#",
+    "category": "standing-flower"
+  },
+  {
+    "id": "SF-003",
+    "name": "Standing Mix Pastel",
+    "price": 1550000,
+    "currency": "IDR",
+    "image": "assets/standing3.jpg",
+    "url": "#",
+    "category": "standing-flower"
+  },
+  {
+    "id": "SF-004",
+    "name": "Standing Premium",
+    "price": 1700000,
+    "currency": "IDR",
+    "image": "assets/standing4.jpg",
+    "url": "#",
+    "category": "standing-flower"
+  },
+  {
+    "id": "SF-005",
+    "name": "Standing Bunga Daisy",
+    "price": 1450000,
+    "currency": "IDR",
+    "image": "assets/standing5.jpg",
+    "url": "#",
+    "category": "standing-flower"
+  },
+  {
+    "id": "SF-006",
+    "name": "Standing Sunflower",
+    "price": 1600000,
+    "currency": "IDR",
+    "image": "assets/standing6.jpg",
+    "url": "#",
+    "category": "standing-flower"
+  },
+  {
+    "id": "SF-007",
+    "name": "Standing Anggrek Ungu",
+    "price": 1800000,
+    "currency": "IDR",
+    "image": "assets/standing7.jpg",
+    "url": "#",
+    "category": "standing-flower"
+  },
+  {
+    "id": "SF-008",
+    "name": "Standing Mix Elegan",
+    "price": 1750000,
+    "currency": "IDR",
+    "image": "assets/standing8.jpg",
+    "url": "#",
+    "category": "standing-flower"
+  },
+  {
+    "id": "SF-009",
+    "name": "Standing Tulip Premium",
+    "price": 1900000,
+    "currency": "IDR",
+    "image": "assets/standing9.jpg",
+    "url": "#",
+    "category": "standing-flower"
+  },
+  {
+    "id": "SF-010",
+    "name": "Standing Orchid White",
+    "price": 2000000,
+    "currency": "IDR",
+    "image": "assets/standing10.jpg",
+    "url": "#",
+    "category": "standing-flower"
+  },
+
+
+
+  {
+    "id": "KD-001",
+    "name": "Karangan Duka Mawar",
+    "price": 1200000,
+    "currency": "IDR",
+    "image": "assets/karangan1.jpg",
+    "url": "#",
+    "category": "karangan-duka"
+  },
+  {
+    "id": "KD-002",
+    "name": "Karangan Duka Lily",
+    "price": 1300000,
+    "currency": "IDR",
+    "image": "assets/karangan2.jpg",
+    "url": "#",
+    "category": "karangan-duka"
+  },
+  {
+    "id": "KD-003",
+    "name": "Karangan Duka Mix Elegan",
+    "price": 1250000,
+    "currency": "IDR",
+    "image": "assets/karangan3.jpg",
+    "url": "#",
+    "category": "karangan-all",
+    "subcategory": "karangan-duka"
+  },
+  {
+    "id": "KD-004",
+    "name": "Karangan Duka Premium",
+    "price": 1400000,
+    "currency": "IDR",
+    "image": "assets/karangan4.jpg",
+    "url": "#",
+    "category": "karangan-duka"
+  },
+  {
+    "id": "KD-005",
+    "name": "Karangan Duka Daisy",
+    "price": 1150000,
+    "currency": "IDR",
+    "image": "assets/karangan5.jpg",
+    "url": "#",
+    "category": "karangan-duka"
+  },
+  {
+    "id": "KD-006",
+    "name": "Karangan Duka Sunflower",
+    "price": 1300000,
+    "currency": "IDR",
+    "image": "assets/karangan6.jpg",
+    "url": "#",
+    "category": "karangan-duka"
+  },
+  {
+    "id": "KD-007",
+    "name": "Karangan Duka Anggrek Ungu",
+    "price": 1500000,
+    "currency": "IDR",
+    "image": "assets/karangan7.jpg",
+    "url": "#",
+    "category": "karangan-duka"
+  },
+  {
+    "id": "KD-008",
+    "name": "Karangan Duka Mix Pastel",
+    "price": 1450000,
+    "currency": "IDR",
+    "image": "assets/karangan8.jpg",
+    "url": "#",
+    "category": "karangan-duka"
+  },
+  {
+    "id": "KS-001",
+    "name": "Karangan Bunga Ucapan Selamat",
+    "category": "karangan-selamat",
+    "price": 950000,
+    "image": "assets/karangan-selamat1.jpg",
+    "description": "Karangan bunga ucapan selamat dengan desain warna-warni ceria."
+  },
+  {
+    "id": "KS-002",
+    "name": "Karangan Bunga Selamat Datang",
+    "category": "karangan-selamat",
+    "price": 1200000,
+    "image": "assets/karangan-selamat2.jpg",
+    "description": "Karangan bunga selamat datang dengan kombinasi bunga mawar dan lily."
+  },
+  {
+    "id": "KSU-001",
+    "name": "Karangan Bunga Sukses Bisnis",
+    "category": "karangan-sukses",
+    "price": 1350000,
+    "image": "assets/karangan-sukses1.jpg",
+    "description": "Karangan bunga ucapan sukses untuk pembukaan bisnis."
+  },
+  {
+    "id": "KSU-002",
+    "name": "Karangan Bunga Sukses Karier",
+    "category": "karangan-sukses",
+    "price": 1500000,
+    "image": "assets/karangan-sukses2.jpg",
+    "description": "Karangan bunga sukses untuk perayaan karier dengan nuansa modern."
+  }
+]
